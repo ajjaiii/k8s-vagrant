@@ -8,10 +8,12 @@
 Tahapan instalasi kubernetes dengan vagrant :
 1. Install Virtualbox versi 6.0
 
-2. install plugin untuk resize disk karena defaultnya hanya 10 GB disini kita ubah jadi 40GB, berikut command install plugin
+2. Install Vagrant
+
+3. install plugin untuk resize disk karena defaultnya hanya 10 GB disini kita ubah jadi 40GB, berikut command install plugin
    - vagrant plugin install vagrant-disksize
    
-3. jalankan vagrant
+4. jalankan vagrant
    - vagrant up   
 
 
@@ -26,5 +28,5 @@ Note : jika ingin tambahkan node, ditambahnkan command berikut :
    :eth1 => "192.168.205.12", 
    :mem => "2048", 
    :cpu => "2" 
-   } 
+} 
 ```
