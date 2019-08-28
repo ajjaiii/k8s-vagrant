@@ -17,6 +17,7 @@ Tahapan instalasi kubernetes dengan vagrant :
 
 
 Note : jika ingin tambahkan node, ditambahnkan command berikut :
+```
 { 
    :name => "k8s-node-2", 
    :type => "node", 
@@ -26,3 +27,4 @@ Note : jika ingin tambahkan node, ditambahnkan command berikut :
    :mem => "2048", 
    :cpu => "2" 
    } 
+```
