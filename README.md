@@ -13,7 +13,7 @@ Tahapan instalasi kubernetes dengan vagrant :
 
 
 Note : jika ingin tambahkan node, ditambahnkan command berikut :
-     - {
+{
         :name => "k8s-node-2",
         :type => "node",
         :box => "ubuntu/bionicl64",
