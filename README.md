@@ -13,7 +13,7 @@ Tahapan instalasi kubernetes dengan vagrant :
 3. install plugin untuk resize disk karena defaultnya hanya 10 GB disini kita ubah jadi 40GB, berikut command install plugin
    - vagrant plugin install vagrant-disksize
    
-4. jalankan vagrant
+4. copy vagrantfile ke folder tujuan, buka cmd dan masuk ke directory tujuan tadi kemudian jalankan vagrant
    - vagrant up   
 
 
