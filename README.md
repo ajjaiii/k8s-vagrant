@@ -34,7 +34,7 @@ Note : jika ingin tambahkan node, ditambahnkan command berikut :
 } 
 ```
 
-untuk menghapus menghapus cluster
+untuk menghapus cluster
 ```
 vagrant destroy -f
 ```
