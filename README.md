@@ -1,6 +1,9 @@
-# k8s-vagrant
+# k8s-vagrant 
+# Kubernetes cluster terdiri 1 Master dan 1 node worker
 
-1 Master dan 1 node
+spesifikasi :
+- ubuntu bionic64
+- docker 18.09
 
 
 ----------------------------------------------------------------------------------------------------------------------------
