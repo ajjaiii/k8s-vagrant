@@ -2,7 +2,7 @@
 # Kubernetes cluster terdiri 1 Master dan 1 node worker
 
 spesifikasi :
-- ubuntu bionic64
+- ubuntu 18.04 bionic64
 - docker 18.09
 
 ----------------------------------------------------------------------------------------------------------------------------
