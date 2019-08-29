@@ -40,6 +40,7 @@ vagrant destroy -f
 ```
 
 untuk mematikan dan ingin menghidupkan kembali suatu saat
+
 matikan :
 ```
 vagrant halt
