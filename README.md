@@ -30,3 +30,19 @@ Note : jika ingin tambahkan node, ditambahnkan command berikut :
    :cpu => "2" 
 } 
 ```
+
+untuk menghapus menghapus cluster
+```
+vagrant destroy -f
+```
+
+untuk mematikan dan ingin menghidupkan kembali suatu saat
+```
+vagrant halt
+```
+
+
+credits
+```
+https://github.com/ecomm-integration-ballerina/kubernetes-cluster.git
+```
